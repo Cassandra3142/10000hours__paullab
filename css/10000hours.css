@@ -170,7 +170,7 @@ button {
     position: relative;
 }
 
-.start .clock_img {
+.start .click_img {
     position: absolute;
     right: -75px;
     bottom: -25px;
